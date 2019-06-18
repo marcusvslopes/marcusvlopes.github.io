@@ -1,6 +1,6 @@
 ---
 title: "Equipe Beta Scorpii"
-excerpt: "Project to build & launch an experiment on a high altitude balloon!<br/><img src='/images/500x300.png'>"
+excerpt: "Project to build & launch an experiment on a high altitude balloon!<br/><img src='/images/betascorpii_logo.png'>"
 collection: portfolio
 ---
 
